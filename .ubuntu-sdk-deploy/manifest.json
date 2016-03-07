@@ -1,0 +1,15 @@
+{
+    "name": "particle2.liu-xiao-guo",
+    "description": "description of particle2",
+    "architecture": "all",
+    "title": "particle2",
+    "hooks": {
+        "particle2": {
+            "apparmor": "particle2.apparmor",
+            "desktop": "particle2.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

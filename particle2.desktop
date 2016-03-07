@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=particle2
+Exec=qmlscene %U Main.qml
+Icon=particle2.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
